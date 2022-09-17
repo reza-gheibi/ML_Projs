@@ -1,6 +1,3 @@
-# Both the members in our group are beginners in Python
-# which is reflected in the way we wrote the code, apologies for that
-
 
 # Towers of Hanoi - 3 disks - SARSA
 
